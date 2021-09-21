@@ -1,6 +1,6 @@
-# Webpack Starter
+# TODO Webpack
 
-Este es el proyecto inicial crear aplicaciones utilizando webpack.
+Este es un proyecto de tipo webpack para la gestión de tareas.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
